@@ -1,0 +1,15 @@
+{
+  "name": "assign_quiz",
+  "version": "1.0.0",
+  "description": "A CLI quiz app in JS",
+  "main": "bigBangTheory_CLI_game.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Devansu Yadav",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "readline-sync": "^1.4.10"
+  }
+}
