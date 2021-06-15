@@ -2,7 +2,9 @@
 
 <p align="center">Are you a Big Bang Theory fan? Play this fun CLI quiz on BBT🤩</p>
 
-<img width="30%" height="30%" align="center" alt="CLI app" src="./img/TBBT_logo.svg.png"/>
+<p align="center">
+<img width="30%" height="30%" alt="CLI app" src="./img/TBBT_logo.svg.png"/>
+</p>
 
 <p align="center">A simple Big Bang Theory CLI quiz build using Nodejs</p>
 
